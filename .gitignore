@@ -1,0 +1,6 @@
+bin/*
+lwjgl-2.8.4/*
+slick.jar
+.project
+.classpath
+.settings/*
