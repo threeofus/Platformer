@@ -11,6 +11,7 @@ import org.newdawn.slick.SlickException;
 /**
  * @author adam
  * @author Tor E Hagemann <hagemt@rpi.edu>
+ * @author Thomas
  */
 public class Platformer implements Game {
 	
